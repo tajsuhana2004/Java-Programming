@@ -1,6 +1,3 @@
-package Sorting;
-
-
 
 public class MergeSort {
     public static void mergeSort(int arr[],int si,int ei){
