@@ -11,7 +11,7 @@ The possible directions that it can take to move in the maze are 'U'(up) i.e. (x
 i.e. (x, y + 1) , 'L' (left) i.e. (x - 1, y), 'R' (right) i.e. (x + 1, y).
 (This problem is similar to Grid ways.) */
 
-/* import java.util.*;
+ import java.util.*;
 
 public class Backtracking {
 
@@ -71,7 +71,7 @@ public class Backtracking {
         ArrayList<String> result = findPath(mat);
         System.out.println(result);
     }
-} */
+} 
 
 
 /* Question 2 :
