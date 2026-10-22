@@ -19,11 +19,11 @@ public class Array{
 
 
         // Creating Array
-        //int marks[]=new int[100];
+        int marks[]=new int[100];
 
         // Taking input from the user
-        //Scanner sc = new Scanner(System.in);
-        /* System.out.println("Enter the marks of OS:");
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the marks of OS:");
         marks[0]=sc.nextInt();
         System.out.println("Enter the marks of CNN:");
         marks[1]=sc.nextInt();
@@ -31,14 +31,14 @@ public class Array{
         marks[2]=sc.nextInt();
 
         //Updating the marks of OS
-        //marks[1]=78;
-        //System.out.println("Enter the marks of OS:" + marks[1]);
+        marks[1]=78;
+        System.out.println("Enter the marks of OS:" + marks[1]);
 
         //Calculate the percentage
         int percentage = (marks[0]+marks[1]+marks[2] )/ 3;
 
         System.out.println("percentage:"+ percentage + "%"); 
-        */
+        
 
 
     
